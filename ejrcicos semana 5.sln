@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejrcicos semana 5", "ejrcicos semana 5\ejrcicos semana 5.csproj", "{F8DCB46B-9DB6-427D-9BCD-92E190F1B58F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8DCB46B-9DB6-427D-9BCD-92E190F1B58F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DCB46B-9DB6-427D-9BCD-92E190F1B58F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8DCB46B-9DB6-427D-9BCD-92E190F1B58F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8DCB46B-9DB6-427D-9BCD-92E190F1B58F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {707AF50D-11EC-4090-A30B-E7DE456F920A}
+	EndGlobalSection
+EndGlobal
